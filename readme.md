@@ -183,6 +183,9 @@ This project follows these development principles:
 - Implement data export/import functionality
 - Add activity logging for audit purposes
 click on this link to scheck the app: https://management-rho-six.vercel.app/
+username: admin@admin.com
+password : admin123
+please feel free to create your own username and password 
 
 ## License
 
