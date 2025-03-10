@@ -59,8 +59,8 @@ NEXTAUTH_URL=http://localhost:3000
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/employee-record-system.git
-   cd employee-record-system
+   git clone https://github.com/PierreMano/management.git
+   cd management
    ```
 
 2. Install dependencies
