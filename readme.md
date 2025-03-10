@@ -182,6 +182,7 @@ This project follows these development principles:
 - Add profile management for users
 - Implement data export/import functionality
 - Add activity logging for audit purposes
+click on this link to scheck the app: https://management-rho-six.vercel.app/
 
 ## License
 
